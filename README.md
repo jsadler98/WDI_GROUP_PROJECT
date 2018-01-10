@@ -7,7 +7,7 @@ This was the group project section of the Web Development Immersive course at Ge
 
 ## The Idea
 
-After brain storming and drawing up ideas with my colleagues we came up with the idea to create an app to help taxi drivers make more money and spend less time on the road. we achieved this using the 3rd party API's as Eventful plotted all the events on the Google map meaning that the cabby's would have an idea of where they where needed the most meaning they could make more money and spend less time on the roads wasting petrol and time.
+After brain storming and drawing up ideas with my colleagues we came up with the idea to create an app to help taxi drivers make more money and spend less time on the road. we achieved this using the 3rd party API's as Eventful plotted all the events on the Google map meaning that the cabby's would have an idea of where the more busier areas where in London meaning they could make more money and spend less time on the roads wasting petrol and time.
 
 ## App Link
 
