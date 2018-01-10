@@ -42,8 +42,6 @@ I worked on a rating system for the app, it allowed the cabby's to rate the dest
         
 ```
 
-This code will print the rating to the model when the submit button is clicked by the user.
-
 ## Challenges
 
 During this project the one thing I found challenging was understanding what work that my other colleagues had completed and understanding there code and keeping up to date with all the changes that where being pushed through GitHub whilst still trying to complete my own work, as mentioned in other readMe's I need to work on time management but I'm sure that will come with experience. Code wise I would get a lot of errors because of sloppy incorrect syntax and that is something I would love to Work on.
