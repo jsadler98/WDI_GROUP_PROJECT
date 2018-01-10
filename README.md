@@ -1,5 +1,5 @@
 
-# WDI30 Project 3: HappyCabby
+# WDI30 Project 3: HappyCabby (Joshua Sadler)
 
 ## Introduction
 
