@@ -11,7 +11,7 @@ After brain storming and drawing up ideas with my colleagues we came up with the
 
 ## App Link
 
-https://happycabby-josh.herokuapp.com/map
+https://happycabby-josh.herokuapp.com/
 
 ## Screenshots
 
