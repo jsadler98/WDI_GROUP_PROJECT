@@ -3,9 +3,7 @@ const mongoose = require('mongoose');
 const commentSchema = new mongoose.Schema(
   {
     createdBy: { type: mongoose.Schema.ObjectId, ref: 'User', required: true },
-    venueId: String,
-    body: { type: String },
-    rating: { type: Number }
+    body: { type: String }
   },
   {
     timestamps: true
